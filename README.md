@@ -1,3 +1,3 @@
-## Welcome to NiceGram Wallet
+# Welcome to NiceGram Wallet
 
-Contact: support@nicegram.app
+Contact: [support@nicegram.app](mailto:support@nicegram.app)
